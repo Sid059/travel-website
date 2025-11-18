@@ -10,6 +10,7 @@ A responsive travel website built with HTML, CSS, and JavaScript featuring desti
 - **Search Functionality** - Find stays and packages
 
 ## 📁 Project Structure
+```
 TravelWebsite/
 ├── 📁 assets/
 │   ├── 📁 font/
@@ -25,6 +26,7 @@ TravelWebsite/
 ├── 📄 index.html                # Main homepage
 ├── 📄 listing.html              # Detailed listings
 └── 📖 README.md                 # Documentation
+```
 
 ## 🌐 Live Demo
 [View Live Website](https://sid059.github.io/travel-website/)
